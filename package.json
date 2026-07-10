@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "faker": "^4.1.0",
-    "morgan": "^1.9.1",
+    "morgan": "^1.11.0",
     "swagger-routes-express": "^3.0.1",
     "tslib": "^1.9.3",
     "typescript": "3.4.5",
